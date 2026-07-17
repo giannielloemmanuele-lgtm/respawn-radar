@@ -1,0 +1,13 @@
+name: RespawnRadar
+version: '0.1.0'
+main: dev.harmand66.respawnradar.RespawnRadarPlugin
+api-version: '26.2'
+description: Your compass points to where you died. Never lose your stuff again.
+author: harmand66
+website: https://github.com/giannielloemmanuele-lgtm/respawn-radar
+
+commands:
+  deathpoint:
+    description: Show your last death location and point your compass at it.
+    usage: /deathpoint
+    aliases: [dp, dovemorto]

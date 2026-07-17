@@ -1,0 +1,5 @@
+# RespawnRadar configuration
+
+# Show death coordinates in chat when the player respawns.
+# Set to false if you want the compass to point silently.
+show-coordinates: true
