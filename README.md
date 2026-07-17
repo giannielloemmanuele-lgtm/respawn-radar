@@ -65,4 +65,8 @@ Suggestions and pull requests are very welcome!
 
 [MIT](LICENSE)
 
+## Development Notes
+
+This plugin was initially scaffolded with AI assistance (Claude), but all testing, compilation, and manual verification has been done independently. The code is fully functional and has been thoroughly reviewed.
+
 
